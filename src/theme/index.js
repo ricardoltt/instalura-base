@@ -1,4 +1,4 @@
-import { typographyVariants } from './typographtVariants'
+import { typographyVariants } from './typographyVariants'
 
 export const colors = {
     background: {
